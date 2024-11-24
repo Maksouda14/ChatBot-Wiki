@@ -33,8 +33,4 @@ A simple chatbot that fetches information from Wikipedia based on user queries. 
 ## Screenshot
 
 ![Chatbot Interface](Chatbot/chatbotScreen.png)
-```bash
-git add Chatbot/chatbotScreen.png README.md
-git commit -m 
-git push origin main 
 
